@@ -1,15 +1,15 @@
 ---
 layout: article
-title: LOL
+title: AWA
 sidebar:
   nav: all_sb
 ---
-LOL: `LOL LOL LOL`
+AWA: `AWA AWA AWA`
 ```C++
 #include<cstdio>
 using namespace std;
 int main(){
-    cout<<"LOL"<<endl;
+    cout<<"AWA"<<endl;
     return 0;
 }
 ```

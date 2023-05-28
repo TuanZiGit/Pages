@@ -13,3 +13,5 @@ all_sb:
     children:
       - title: LOL
         url: /articles/LOL
+      - title: AWA
+        url: /articles/AWA
