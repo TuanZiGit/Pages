@@ -9,7 +9,7 @@ all_sb:
     children:
       - title: 主页
         url: /
-      - title: 文章
-        children:
-          - title: LOL
-            url: /articles/LOL.html
+  - title: 文章
+    children:
+      - title: LOL
+        url: /articles/LOL
