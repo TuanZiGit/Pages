@@ -1,6 +1,6 @@
 ---
 layout: article
-title: 主页 - A Simple Static Web
+title: 主页
 sidebar:
   nav: all_sb
 ---

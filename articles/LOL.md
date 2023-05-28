@@ -4,4 +4,4 @@ title: LOL
 sidebar:
   nav: all_sb
 ---
-LOLLOLLOL
+LOL: `LOL LOL LOL`
