@@ -12,3 +12,4 @@ all_sb:
       - title: 文章
         children:
           - title: LOL
+            url: /articles/LOL.html
