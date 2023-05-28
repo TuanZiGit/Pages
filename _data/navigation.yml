@@ -1,18 +1,14 @@
 header:
-  - titles:
-      en      : &EN       HOME
-      en-GB   : *EN
-      en-US   : *EN
-      en-CA   : *EN
-      en-AU   : *EN
-      zh-Hans : &ZH_HANS  主页
-      zh      : *ZH_HANS
-      zh-CN   : *ZH_HANS
-      zh-SG   : *ZH_HANS
+  - title: 主页
     url: /
+  - title: Github
+    url: https://github.com/TuanZiGit/Pages
 
 all_sb:
-  - title: HOME
+  - title: A Simple Static Website
     children:
-      - title: home
+      - title: 主页
         url: /
+      - title: 文章
+        children:
+          - title: LOL
