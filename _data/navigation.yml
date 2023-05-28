@@ -12,14 +12,7 @@ header:
     url: /
 
 all_sb:
-  - titles:
-      en      : &EN       HOME
-      en-GB   : *EN
-      en-US   : *EN
-      en-CA   : *EN
-      en-AU   : *EN
-      zh-Hans : &ZH_HANS  主页
-      zh      : *ZH_HANS
-      zh-CN   : *ZH_HANS
-      zh-SG   : *ZH_HANS
-    url: /
+  - title: HOME
+    children:
+      - title: home
+        url: /
