@@ -5,7 +5,7 @@ sidebar:
   nav: all_sb
 ---
 LOL: `LOL LOL LOL`
-```C++
+```Cpp
 #include<cstdio>
 using namespace std;
 int main(){

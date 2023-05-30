@@ -5,7 +5,7 @@ sidebar:
   nav: all_sb
 ---
 AWA: `AWA AWA AWA`
-```C++
+```Cpp
 #include<cstdio>
 using namespace std;
 int main(){
