@@ -4,7 +4,7 @@ title: 花海
 sidebar:
   nav: all_sb
 ---
-<audio id="audio" controls="" preload="none">
+<audio autoplay loop controls>
     <source src="../src/花海.mp3">
 </audio>
 作词 : 古小力/黄淩嘉\

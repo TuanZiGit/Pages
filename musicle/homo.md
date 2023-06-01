@@ -4,7 +4,7 @@ title: 冬の花
 sidebar:
   nav: all_sb
 ---
-<audio id="audio" controls="" preload="none">
+<audio autoplay loop controls>
     <source src="../src/冬の花.m4a">
 </audio>
 作词 : 宮本浩次\

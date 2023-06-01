@@ -4,7 +4,7 @@ title: 永不放弃你
 sidebar:
   nav: all_sb
 ---
-<audio id="audio" controls="" preload="none">
+<audio autoplay loop controls>
     <source src="../src/nggyu.m4a">
 </audio>
 作词 : Stock Aitken Waterman\
