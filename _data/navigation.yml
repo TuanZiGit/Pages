@@ -15,3 +15,11 @@ all_sb:
         url: /articles/LOL
       - title: AWA
         url: /articles/AWA
+  - title: 奇妙的音乐
+    children:
+      - title: 冬の花
+        url: /musicle/homo
+      - title: 花海
+        url: /musicle/emo
+      - title: 永不放弃你
+        url: /musicle/nggyu
